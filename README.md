@@ -96,9 +96,8 @@ public static string Url = "https://cors-anywhere2.herokuapp.com/" + serverurl; 
 
 # Contributor
 
-| Name           | Time required | Assigned to   | Current Status | Finished | 
+| Name           | Helped for |
 |----------------|---------------|---------------|----------------|-----------|
-| HideakiAtsuyo  | > 5 hours  |  | in progress | - [x] ok?
-| [Stan](https://github.com/Stanley-GF)          | > 5 hours  |  | in progress | [x] item1<br/>[ ] item2
-| Igor           | > 5 hours  |  | in progress | <ul><li>- [x] item1</li><li>- [ ] item2</li></ul>
-| Object Cache   | > 5 hours  |  | in progress | <ul><li>[x] item1</li><li>[ ] item2</li></ul>
+| [HideakiAtsuyo](https://github.com/HideakiAtsuyo)  | API
+| [Stan](https://github.com/Stanley-GF)          | Code & a bit of the API 
+| [Igor](https://github.com/IgorBataljon)           |  API  |  | in progress
