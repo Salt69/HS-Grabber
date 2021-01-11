@@ -55,7 +55,7 @@ $ nano index.js
 ```
 
 Your API URL gonna be : 
-https://your-vps-ip/api/v1/send (replace your-vps-ip by ur real vps ip, obviously)
+http://your-vps-ip/api/v1/send (replace your-vps-ip by ur real vps ip, obviously)
 
 ### Method 2 : Heroku (the best for beginner)
 
