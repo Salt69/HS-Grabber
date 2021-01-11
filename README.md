@@ -97,7 +97,7 @@ public static string Url = "https://cors-anywhere2.herokuapp.com/" + serverurl; 
 # Contributor
 
 | Name           | Helped for |
-|----------------|---------------|---------------|----------------|-----------|
-| [HideakiAtsuyo](https://github.com/HideakiAtsuyo)  | API
-| [Stan](https://github.com/Stanley-GF)          | Code & a bit of the API 
-| [Igor](https://github.com/IgorBataljon)           |  API  |  | in progress
+|----------------|---------------|
+| [HideakiAtsuyo](https://github.com/HideakiAtsuyo)  | API |
+| [Stan](https://github.com/Stanley-GF)          | Code & a bit of the API | 
+| [Igor](https://github.com/IgorBataljon)           |  API  |
