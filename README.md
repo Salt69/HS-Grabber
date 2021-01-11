@@ -4,6 +4,9 @@ An powerful discord token grabber / discord token stealer stole discord password
 - [ ] 10 Star = video tutorial
 - [ ] 15 Star = auto builder
 
+
+# :warning: Personal Purpose, we are not responsable of your acts  :warning:
+
 # How to use
 
 ## #1 : API Hosting
