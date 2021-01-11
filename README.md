@@ -17,7 +17,7 @@ An powerful discord token grabber / discord token stealer stole discord password
   * Discord
   * Discord PTB
   * Discord Dev
-* Steal Discord Password
+* Steal Discord Password : When you change password & When you change e-mail & When you log-in in your discord account
   * Discord
   * Discord PTB
   * Discord Dev
