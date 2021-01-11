@@ -5,7 +5,7 @@ An powerful discord token grabber / discord token stealer stole discord password
 
 ## #1 : API Hosting
 
-### Method 1 : (require an vps)
+### Method 1 : (require a vps)
 
 Open port 80
 
