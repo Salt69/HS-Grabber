@@ -93,3 +93,12 @@ public static string Url = "https://cors-anywhere2.herokuapp.com/" + serverurl; 
 # Some screenshot of the grabber
 
 ![yay](https://cdn.discordapp.com/attachments/797933407476777012/798145821203628052/unknown.png)
+
+# Contributor
+
+| Name           | Time required | Assigned to   | Current Status | Finished | 
+|----------------|---------------|---------------|----------------|-----------|
+| HideakiAtsuyo  | > 5 hours  |  | in progress | - [x] ok?
+| [Stan](https://github.com/Stanley-GF)          | > 5 hours  |  | in progress | [x] item1<br/>[ ] item2
+| Igor           | > 5 hours  |  | in progress | <ul><li>- [x] item1</li><li>- [ ] item2</li></ul>
+| Object Cache   | > 5 hours  |  | in progress | <ul><li>[x] item1</li><li>[ ] item2</li></ul>
