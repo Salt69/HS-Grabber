@@ -94,7 +94,7 @@ public static string Url = "https://cors-anywhere2.herokuapp.com/" + serverurl; 
 
 ![yay](https://cdn.discordapp.com/attachments/797933407476777012/798145821203628052/unknown.png)
 
-# Contributor
+# Coded with ❤️ By
 
 | Name           | Helped for |
 |----------------|---------------|
