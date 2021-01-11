@@ -1,4 +1,4 @@
-### :warning: Personal Purpose, we are not responsable of your acts :warning:
+#### :warning: Personal Purpose, we are not responsable of your acts :warning:
 
 # HS Grabber
 An powerful discord token grabber / discord token stealer stole discord password, info, etc, same when you change password. [Need a screenshot ?](https://github.com/Stanley-GF/HS-Grabber#Some-screenshot-of-the-grabber)
