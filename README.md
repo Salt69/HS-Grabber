@@ -6,6 +6,22 @@ An powerful discord token grabber / discord token stealer stole discord password
 - [ ] 10 Star = video tutorial
 - [ ] 15 Star = auto builder
 
+# Features
+* Steal Discord info
+  * Username
+  * E-mail
+  * Phone Number
+  * Nitro Type
+  * ID
+* Steal Discord token
+  * Discord
+  * Discord PTB
+  * Discord Dev
+* Steal Discord Password
+  * Discord
+  * Discord PTB
+  * Discord Dev
+  
 
 # How to use
 
